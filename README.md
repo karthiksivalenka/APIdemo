@@ -6,7 +6,7 @@ The data is initially loaded into staging table. Necessary transformations are d
 defined dimensions and facts. 
 Database creation scripts are present in database folder.
 
-![ER Diagram](./images/ER.png)
+![ER Diagram](./ER.png)
 
 #Query
 SELECT COUNT(JOBS_ID) NUM_OF_JOBS
